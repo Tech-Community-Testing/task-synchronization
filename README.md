@@ -1,3 +1,3 @@
 # task-synchronization
 
-## Title test
+## Title
